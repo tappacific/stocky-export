@@ -64,7 +64,7 @@ Stocktakes and forecast settings aren't in Stocky's API. Export those by hand be
 
 I'm building a replacement for Stocky's reorder and receiving side. If you used Stocky, I'd love 15 minutes to hear how. Nothing to sell.
 
-**husain@tappacific.com**
+**stocky@tappacific.com**
 
 ---
 
